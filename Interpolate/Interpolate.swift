@@ -7,6 +7,8 @@
 //
 
 import Foundation
+import CoreGraphics
+import QuartzCore
 
 /// Interpolate class. Responsible for conducting interpolations.
 open class Interpolate {
